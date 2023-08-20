@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Mariana, but you can call me Mari =)
-I'm a software engineer with more experience in backend, which is my passion, but now studying frontend to be able to act as a fullstack engineer, at least in personal projects, since I'm interested in all parts of software develpment. I have been studying React.js, Styled Componentes, Redux and Next.js and also improving my backend skills by studying Docker and AWS.
+I'm a software engineer with more experience in backend, which is my passion, but now studying frontend to be able to act as a fullstack engineer, at least in personal projects, since I'm interested in all parts of software development. I have been studying React.js, Styled Components, Redux and Next.js and also improving my backend skills by studying Docker and AWS.
 
 <!--<div align="right">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marian4&layout=compact&langs_count=9&theme=material-palenight"/>
