@@ -9,6 +9,9 @@ I'm a software engineer with more experience in backend, which is my passion, bu
 
 #### You can see some of my backend projects
 
+[RentalX](https://github.com/Marian4/RentalX)<br>
+[Tasks](https://github.com/Marian4/express-ts-tasks-api)<br>
+[Thoughts](https://github.com/Marian4/Thoughts)<br>
 <div style="display: inline_block"><br>
   <img align="center" alt="Nest" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg">
   <img align="center" alt="Node" height="30" width="40" src= "https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
@@ -23,11 +26,12 @@ I'm a software engineer with more experience in backend, which is my passion, bu
   <img align="center" alt="AWS" height="30" width="40" src= "https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">
 </div><br>
 
-[RentalX](https://github.com/Marian4/RentalX)<br>
-[Tasks](https://github.com/Marian4/express-ts-tasks-api)<br>
-[Thoughts](https://github.com/Marian4/Thoughts)<br>
-
 #### Also the frontend ones
+
+[Coffee Delivery](https://github.com/Marian4/coffee-delivery)<br>
+[DTMoney](https://github.com/Marian4/DT-Money)<br>
+[Timer](https://github.com/Marian4/ignite-timer)<br>
+[Ignite Feed](https://github.com/Marian4/ignite-feed)<br>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
@@ -37,19 +41,6 @@ I'm a software engineer with more experience in backend, which is my passion, bu
   <img align="center" alt="Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"> 
   <img align="center" alt="Typescript" height="30" width="40" src= "https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
 </div><br>
-
-[Coffee Delivery](https://github.com/Marian4/coffee-delivery)<br>
-[DTMoney](https://github.com/Marian4/DT-Money)<br>
-[Timer](https://github.com/Marian4/ignite-timer)<br>
-[Ignite Feed](https://github.com/Marian4/ignite-feed)<br>
-
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Git" height="30" width="40" src= "https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-  <img align="center" alt="Linux" height="30" width="40" src= "https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg">
-  <img align="center" alt="Vscode" height="30" width="40" src= "https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-</div>
-
 
 ### Contact me
 
