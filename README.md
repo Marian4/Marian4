@@ -29,9 +29,10 @@ I'm a software engineer with more experience in backend, which is my passion, bu
 #### Also the frontend ones
 
 [Coffee Delivery](https://github.com/Marian4/coffee-delivery)<br>
-[DTMoney](https://github.com/Marian4/DT-Money)<br>
+[DT-Money](https://github.com/Marian4/DT-Money)<br>
 [Timer](https://github.com/Marian4/ignite-timer)<br>
 [Ignite Feed](https://github.com/Marian4/ignite-feed)<br>
+[Ignite Shop](https://github.com/Marian4/ignite-shop)<br>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
